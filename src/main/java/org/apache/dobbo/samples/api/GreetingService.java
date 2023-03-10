@@ -1,5 +1,5 @@
 package org.apache.dobbo.samples.api;
 
-public interface GettingService {
+public interface GreetingService {
     String sayHi(String name);
 }
